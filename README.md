@@ -13,6 +13,32 @@ This project analyzes a comprehensive dataset of residential properties to uncov
 - Data Integration
 - Data Analysis
 
+  ## 🖼️ Visual Preview
+
+### Dashboard
+![Dashboard](Housing-Market-Trends-Project/Screenshots/dashboard.png)
+
+### Sheet 1
+![Sheet 1](Housing-Market-Trends-Project/Screenshots/sheet1.png)
+
+### Sheet 2
+![Sheet 2](Housing-Market-Trends-Project/Screenshots/sheet2.png)
+
+### Sheet 3
+![Sheet 3](Housing-Market-Trends-Project/Screenshots/sheet3.png)
+
+### Sheet 4
+![Sheet 4](Housing-Market-Trends-Project/Screenshots/sheet4.png)
+
+### Storyboard 1
+![Storyboard 1](Housing-Market-Trends-Project/Screenshots/storyboard1.png)
+
+### Storyboard 2
+![Storyboard 2](Housing-Market-Trends-Project/Screenshots/storyboard2.png)
+
+### Storyboard 3
+![Storyboard 3](Housing-Market-Trends-Project/Screenshots/storyboard3.png)
+
 ## 📁 Repository Structure
 
 - **Dataset/** — Cleaned housing sales dataset used for analysis
