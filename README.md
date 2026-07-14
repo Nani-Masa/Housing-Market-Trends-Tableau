@@ -14,21 +14,18 @@ This project analyzes a comprehensive dataset of residential properties to uncov
 - Data Analysis
 
 ## 📁 Repository Structure
-Housing-Market-Trends-Project/
-├── Dataset/
-│   └── Cleaned housing sales dataset used for analysis
-├── Tableau/
-│   └── Tableau packaged workbook (.twbx) with all dashboards & story
-├── Screenshots/
-│   └── Preview images of dashboards, sheets, and storyboards
-└── Reports/
-    ├── 1.Brainstorming and Ideation phase
-    ├── 2.Requirement Analysis phase
-    ├── 3.Project Design Phase
-    ├── 4.Project Planning Phase
-    ├── 5.Project Development Phase
-    ├── 6.Performance Testing Phase
-    └── 7.Project Documentation and Demo
+
+- **Dataset/** — Cleaned housing sales dataset used for analysis
+- **Tableau/** — Tableau packaged workbook (.twbx) with all dashboards & story
+- **Screenshots/** — Preview images of dashboards, sheets, and storyboards
+- **Reports/** — Phase-wise project documentation
+  - 1.Brainstorming and Ideation phase
+  - 2.Requirement Analysis phase
+  - 3.Project Design Phase
+  - 4.Project Planning Phase
+  - 5.Project Development Phase
+  - 6.Performance Testing Phase
+  - 7.Project Documentation and Demo
 
 ## 📊 Key Visualizations
 - Count of housing records
