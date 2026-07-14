@@ -37,5 +37,5 @@ Housing-Market-Trends-Project/
 - House age distribution by bathrooms, bedrooms, and floors
 
 ## 👤 Author
-Nani-Masa
-Nithya1746
+- Nani-Masa
+- Nithya1746
